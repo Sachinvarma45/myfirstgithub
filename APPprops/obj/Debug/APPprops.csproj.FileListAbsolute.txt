@@ -1,0 +1,5 @@
+C:\Users\Goldmedal\source\repos\3Tier_practice\APPprops\bin\Debug\APPprops.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\APPprops\bin\Debug\APPprops.pdb
+C:\Users\Goldmedal\source\repos\3Tier_practice\APPprops\obj\Debug\APPprops.csproj.CoreCompileInputs.cache
+C:\Users\Goldmedal\source\repos\3Tier_practice\APPprops\obj\Debug\APPprops.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\APPprops\obj\Debug\APPprops.pdb

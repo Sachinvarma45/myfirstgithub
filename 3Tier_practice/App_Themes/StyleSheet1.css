@@ -1,0 +1,129 @@
+﻿.container {
+    width: 800px;
+    margin-left: 100px;
+}
+
+.Input_fi, auto-style1 {
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.moto {
+    margin-bottom: 20px;
+}
+
+.auto-style3 {
+    width: 100%;
+}
+
+.auto-style4 {
+    width: 514px;
+    height: 47px;
+}
+
+.auto-style7 {
+    width: 514px;
+    height: 61px;
+}
+
+.auto-style8 {
+    height: 61px;
+    width: 1263px;
+}
+
+.auto-style9 {
+    width: 514px;
+    height: 57px;
+}
+
+.auto-style10 {
+    height: 57px;
+    width: 1263px;
+}
+
+.auto-style11 {
+    width: 514px;
+    height: 52px;
+}
+
+.auto-style12 {
+    height: 52px;
+    width: 1263px;
+}
+
+.auto-style13 {
+    width: 514px;
+    height: 96px;
+}
+
+.auto-style14 {
+    height: 96px;
+    width: 1263px;
+}
+
+.auto-style15 {
+    width: 514px;
+    height: 67px;
+}
+
+.auto-style16 {
+    height: 67px;
+    width: 1263px;
+}
+
+.auto-style17 {
+    height: 47px;
+    width: 1263px;
+}
+
+.para {
+    width: 200px;
+    height: 40px;
+    background: #b3c1c1;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.5rem;
+}
+
+table {
+    margin-left: 50px;
+    width: 500px;
+}
+
+.auto-style18 {
+    width: 199px;
+    height: 40px;
+    background: #b3c1c1;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.5rem;
+}
+
+.Button_area {
+    position: absolute;
+    left: 40%;
+    top: 10%;
+}
+
+.button {
+    margin-bottom: 50px;
+}
+
+.error_text {
+    color: red;
+    margin-left: 50px;
+}
+
+.auto-style19 {
+    margin-left: 0px;
+}
+
+.show_data {
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}

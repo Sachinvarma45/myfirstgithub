@@ -1,0 +1,11 @@
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\bin\Debug\BLL.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\bin\Debug\BLL.pdb
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\bin\Debug\APPprops.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\bin\Debug\DAL.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\bin\Debug\APPprops.pdb
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\bin\Debug\DAL.pdb
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\obj\Debug\BLL.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\BLL\obj\Debug\BLL.pdb

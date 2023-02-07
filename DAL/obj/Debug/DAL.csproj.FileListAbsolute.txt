@@ -1,0 +1,9 @@
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\bin\Debug\DAL.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\bin\Debug\DAL.pdb
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\bin\Debug\APPprops.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\bin\Debug\APPprops.pdb
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\obj\Debug\DAL.dll
+C:\Users\Goldmedal\source\repos\3Tier_practice\DAL\obj\Debug\DAL.pdb
